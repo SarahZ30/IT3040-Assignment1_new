@@ -4,8 +4,7 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ## Repository
-https://github.com/SarahMd/IT3040-Assignment1_new.git
-
+https://github.com/SarahZ30/IT3040-Assignment1_new.git
 ---
 
 ## Project Structure
